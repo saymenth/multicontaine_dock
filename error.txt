@@ -1,0 +1,4 @@
+- define network salah?
+- haruskah satu volume?
+- jika beda container apakahnya hanya network: *namanetwork*
+- apa itu @groupadd docker?
